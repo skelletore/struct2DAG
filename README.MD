@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/173927847.svg)](https://zenodo.org/badge/latestdoi/173927847)
+
 # Generate graphs from strucrues of mathematical knowledge
 
 ## Python code
